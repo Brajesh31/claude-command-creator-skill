@@ -20,3 +20,7 @@ A skill for designing reusable Claude Code slash commands as clear, testable Mar
 ## Usage
 
 Use when creating or improving a reusable slash command. Read the relevant reference files for patterns, examples, and quality checks. Confirm the installed Claude Code version before relying on version-sensitive command features.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
